@@ -1,0 +1,25 @@
+
+body {
+    font-family: Tahoma, sans-serif;
+    direction: rtl;
+    background: #f8fafc;
+    color: #333;
+    padding: 2rem;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #667eea;
+    color: #fff;
+    padding: 1rem 2rem;
+    border-radius: 8px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 0.5rem;
+}
+nav a:hover {
+    text-decoration: underline;
+}
